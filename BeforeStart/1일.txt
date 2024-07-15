@@ -1,0 +1,40 @@
+Java Script
+- HTML과 CSS와 함께 클라이언트 측 웹프로그래밍을 할 수 있도록 돕는 프로그래밍 언어
+- C, C++, 자바와 같은 전통적인 언어에 비해 문법이 쉽고 브라우저에서 바로 실행으로 편함
+- 인터프리터 언어 (작성과 동시에 바로 실행)
+- ES5
+	윈도우의 메모장으로 바로 작성하고 결과 확인 가능
+- ES6 
+	몇 가지 추가 환결설정 필요
+	CLI (Command Line Interface) 활용 => 터미널 활용
+	node.js, npm, react, git 활용을 위해 터미널 활용
+
+- 에디터 활용
+	- WebStorm		=> 좋지만 유료
+	- Visual Studio Code	=> 무료, 거의 모든 기능
+	- 수업에서는 텍스트 편집기 서브라임텍스트 3과 웹브라우저 크롬 개발자 도구 사용
+
+Sublime Text 3
+	JS 파일은 .js
+	HTML 파일은 .html 로 저장
+
+alert("내용") 경고창 띄우기
+
+Ctrl + Shift + I
+=> 크롬 개발자 도구
+
+	
+
+컴파일러
+- 소스코드를 기계어로 변환하는 과정
+인터프리터
+- 바로 실행
+
+HTML
+- HyperTextMarkup Language
+- 서로 다른 문서를 연결할 수 있는 하이퍼텍스트를 표현할 수 있는 언어
+
+CSS
+- Cascading Style Sheets
+- HTML로 표현된 문서에 스타일을 지정하는 언어
+

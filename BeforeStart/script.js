@@ -1,0 +1,1 @@
+alert("한글. Javascript first page")
